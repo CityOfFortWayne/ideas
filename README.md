@@ -9,6 +9,7 @@ Ideas
 - A repo for each of the sets of data on [jgdata.net](http://www.jgdata.net/)
 - Work with Journal Gazette to provide a JSON API for the data on [jgdata.net](http://www.jgdata.net/)
 - A repo for flu shot locations across the city of Fort Wayne. See [flu-shot-spec](https://github.com/CityOfPhiladelphia/flu-shot-spec/blob/master/city-of-philadelphia/locations.geojson) for a great example of the utility of this data set to the public.
+- A repo of traffic cams, weather cams, etc. Also, an API for these cams.
 
 Disclaimer
 ----------
