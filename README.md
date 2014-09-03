@@ -1,18 +1,17 @@
-Brainstorming for the CityOfFortWayne GitHub repository
-=====
+# City of Fort Wayne
+
+## Brainstorming
 
 See [flu-shot-spec](https://github.com/CityOfPhiladelphia/flu-shot-spec/blob/master/city-of-philadelphia/locations.geojson) and the [CityOfPhiladelphia](https://github.com/CityOfPhiladelphia) GitHub organization for examples of what this could become.
 
-Ideas
------
+## Ideas
 
 - A repo for each of the sets of data on [jgdata.net](http://www.jgdata.net/)
 - Work with Journal Gazette to provide a JSON API for the data on [jgdata.net](http://www.jgdata.net/)
 - A repo for flu shot locations across the city of Fort Wayne. See [flu-shot-spec](https://github.com/CityOfPhiladelphia/flu-shot-spec/blob/master/city-of-philadelphia/locations.geojson) for a great example of the utility of this data set to the public.
 - A repo of traffic cams, weather cams, etc. Also, an API for these cams.
 
-Disclaimer
-----------
+## Disclaimer
 
 This is an UNOFFICIAL GitHub organization for the city of Fort Wayne. If you work for Fort Wayne, please contact [hopper.derek@gmail.com](mailto:hopper.derek@gmail.com) to arrange for transfer of ownership.
 
